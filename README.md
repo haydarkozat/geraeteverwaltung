@@ -4,6 +4,10 @@ Eine schlanke, **lokal laufende** Web-Anwendung zur Verwaltung von IT-Geräten a
 Inventarisierung, Ausleihe/Rückgabe, Druck von Barcode-/QR-Etiketten sowie CSV-Im- und Export.
 Alle Daten bleiben ausschließlich im Browser (`localStorage`) – **keine Übertragung an Dritte**.
 
+**🔗 Live-Demo: https://haydarkozat.github.io/geraeteverwaltung/**
+
+Über „Beispieldaten laden“ lässt sich das Werkzeug direkt im Browser ausprobieren.
+
 ## Funktionen
 
 - **Inventar** mit Status (verfügbar, verliehen, in Reparatur, ausgemustert), Typ, Standort, Seriennummer, DigitalPakt-Kennzeichnung u. v. m.
