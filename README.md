@@ -19,6 +19,9 @@ Alle Daten bleiben ausschließlich im Browser (`localStorage`) – **keine Über
 ### Etikettendruck mit Barcodes
 ![Druckansicht mit Code-128-Etiketten](docs/screenshots/03-etiketten.png)
 
+### Etikettendruck mit QR-Codes
+![Druckansicht mit QR-Code-Etiketten](docs/screenshots/04-etiketten-qr.png)
+
 ## Funktionen
 
 - **Inventar** mit Status (verfügbar, verliehen, in Reparatur, ausgemustert), Typ, Standort, Seriennummer, DigitalPakt-Kennzeichnung u. v. m.
