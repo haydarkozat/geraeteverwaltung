@@ -8,6 +8,17 @@ Alle Daten bleiben ausschließlich im Browser (`localStorage`) – **keine Über
 
 Über „Beispieldaten laden“ lässt sich das Werkzeug direkt im Browser ausprobieren.
 
+## Screenshots
+
+### Übersicht – Inventar, Status & Ausleihe
+![Übersicht der Geräteverwaltung mit Statistik und Geräteliste](docs/screenshots/01-uebersicht.png)
+
+### Ausleihe mit Vorlagen & Rückgabedatum
+![Dialog zum Ausleihen eines Geräts](docs/screenshots/02-ausleihe.png)
+
+### Etikettendruck mit Barcodes
+![Druckansicht mit Code-128-Etiketten](docs/screenshots/03-etiketten.png)
+
 ## Funktionen
 
 - **Inventar** mit Status (verfügbar, verliehen, in Reparatur, ausgemustert), Typ, Standort, Seriennummer, DigitalPakt-Kennzeichnung u. v. m.
